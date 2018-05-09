@@ -4,7 +4,7 @@
 
 ### Description
 
-In this assignment you will implment an agent to play t[he game of Connect 4.
+In this assignment you will implment an agent to play the game of Connect 4.
 Your agent will use the alpha-beta pruning algorithm to select the next move
 given the current board state. 
 
@@ -12,7 +12,7 @@ There are two main files:
 - ConnectFour.py 
 - Player.py
 
-ConnectFour.py contains the all of the functions of the game.
+ConnectFour.py contains all of the functions of the game.
 Player.py contains all of the types of players that can participate in the 
 game:
 - AIPlayer (Your Implementation)
