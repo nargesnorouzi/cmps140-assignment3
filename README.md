@@ -1,6 +1,6 @@
-# Assignment 3
+# Assignment 1
 
-**Due 5/20/2018 at 11:59pm**
+**Due 2/11/2019 at 11:59pm**
 
 ### Description
 
@@ -85,7 +85,7 @@ You will to turn in 2 files:
   and **expectimax search** implemenations int the AIPlayer
   class
 
-- Assignment3.pdf
+- Assignment1.pdf
   - Address the following questions:
     - What heuristic did you use? Why?
     - Describe how your algorithm performs given different time contraints.
